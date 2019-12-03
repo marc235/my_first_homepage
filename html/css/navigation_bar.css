@@ -1,12 +1,25 @@
-/*  The code on lines 3-7 will remove the bullets and spacing from the list we created. */ 
+/*  This block of code changes the background-color of the entire page. */ 
+body {
 
+	background-color: #2b2a25;
+}
+
+/*  This block of code will remove the bullets and spacing from the list we created. */ 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   }
 
-/* The code on lines 10-12 will cause the list to display inline, one item after the other. */   
+/* This block of code will cause the list to display inline, one item after the other. */   
 li {
   display: inline;
+  padding: 15px; 
+  background-color: #5817fc;
+}
+
+/* This block of code changes the color of hyperlink text so it will CONTRAST with the background-color of the nav. bar. */ 
+a {
+  color: #c2c234;	
+  font-size: 20px; 
 }
