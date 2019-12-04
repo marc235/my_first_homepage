@@ -18,6 +18,12 @@ li {
   background-color: #5817fc;
 }
 
+li:hover {
+  display: inline;
+  padding: 15px; 
+  background-color: white;
+}
+
 /* This code makes a class for the active page so you know where you are in the navigation bar. */
 .active {
 	background-color: #ccff33;
@@ -28,5 +34,10 @@ li {
 /* This block of code changes the color of hyperlink text so it will CONTRAST with the background-color of the nav. bar. */ 
 a {
   color: #c2c234;	
+  font-size: 20px; 
+}
+
+a:hover {
+  color: white;	
   font-size: 20px; 
 }
