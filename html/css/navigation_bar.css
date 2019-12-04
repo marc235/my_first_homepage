@@ -18,6 +18,13 @@ li {
   background-color: #5817fc;
 }
 
+/* This code makes a class for the active page so you know where you are in the navigation bar. */
+.active {
+	background-color: #ccff33;
+	color: #000000;
+}
+
+
 /* This block of code changes the color of hyperlink text so it will CONTRAST with the background-color of the nav. bar. */ 
 a {
   color: #c2c234;	
