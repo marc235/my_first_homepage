@@ -11,3 +11,4 @@
 <body bgcolor= "Blue" >
 </body>
 <p> <font color>= "yellow"> I am 13 years old I like Video Games, play soccer, and binge watch netflix. </font</P>
+background-color: #2b2a25;
