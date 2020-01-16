@@ -1,5 +1,5 @@
 # my_first_homepage
- Marc Limeul. 
+ Marc Limeul@nd  
 <head><title> Biology</title>
 </head>
 <br
@@ -23,7 +23,7 @@
 <body>
 <ul>
 <li><a href="index.html">Return Home</a></li>
-<li><a href="about_me.html">About the Author</a></li>
+<li><a href="about_me.html">About ME</a></li>
 <li><a href="science.html">My Science Project</a></li>
 </ul>
 
