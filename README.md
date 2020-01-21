@@ -5,7 +5,8 @@
 <br
 <hr>
 <h1> My HomePage Project </h1>
-<p>  Evolution the  theory in biology suggest that the various types of plants, animals, and other living things on Earth have their beging  in other preexisting types and that the little differences are due to modifications or adaptions  in past generations.  </P>
+<p>  Biology
+ The Evolution  theory in biology says that the various types of plants, animals, and other living things on Earth have their birth   in other  types and that the little differences are due to modifications or adaptions  in past generations.  </P>
 <p> <center> About Me </center></p>
 <a
 <body bgcolor= "Blue" >
