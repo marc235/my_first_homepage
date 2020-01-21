@@ -1,6 +1,6 @@
 # my_first_homepage
  Marc Limeul 2nd  
-<head><title> Biology</title>
+<head><title> Biology
 </head>
 <br
 <hr>
