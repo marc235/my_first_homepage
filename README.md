@@ -5,12 +5,12 @@
 <br
 <hr>
 <h1> My HomePage Project </h1>
-<p> Marc  2nd </P>
+<p>  Evolution the  theory in biology suggest that the various types of plants, animals, and other living things on Earth have their beging  in other preexisting types and that the little differences are due to modifications or adaptions  in past generations.  </P>
 <p> <center> About Me </center></p>
 <a
 <body bgcolor= "Blue" >
 </body>
-<p> <font color>= I am 13 years old I like Video Games, play soccer, and binge watch netflix. </font</P>
+<p> <font color> I am 13 years old I like Video Games, play soccer, and binge watch netflix. </font</P>
 <!DOCTYPE html>
 <html>
 <head>
