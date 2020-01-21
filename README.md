@@ -10,7 +10,7 @@
 <a
 <body bgcolor= "Blue" >
 </body>
-<p> <font color>= "yellow"> I am 13 years old I like Video Games, play soccer, and binge watch netflix. </font</P>
+<p> <font color>= I am 13 years old I like Video Games, play soccer, and binge watch netflix. </font</P>
 <!DOCTYPE html>
 <html>
 <head>
