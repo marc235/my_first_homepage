@@ -12,7 +12,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Navigation Bar Exampe</title
 <link rel="stylesheet" type="text/css" href="css/navigation_bar.css">
 <meta name="description" content="Navigation Bar Example">
 <meta name="keywords" content="html,css,school,project,science,computers,technology">
