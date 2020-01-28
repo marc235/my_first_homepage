@@ -5,7 +5,7 @@
 <br
 <hr>
 <h1> My HomePage Project </h1>
-<p> <center> About Me </center></p>
+<p> <center>  </center></p>
 <a
 <body bgcolor= "Blue" >
 </body>
@@ -20,7 +20,7 @@
 <body>
 <ul>
 <li><a href="index.html">Return Home</a></li>
-<li><a href="about_me.html">About ME</a></li><p> <font color> I am 13 years old I like Video Games, play soccer, and binge watch netflix. </font</P>
+<li><a href="about_me.html">About ME</a></li><p> <font color> I am 13 years old I like Video Games, play soccer, and binge watch netflix.Also I am a honor Student and have  </font</P>
 <li><a href="science.html">My Science Project</a></li><p> For My Science project i want  to do my project on genetics and evolution. 
  
  
